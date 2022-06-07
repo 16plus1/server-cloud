@@ -2,6 +2,6 @@
     "serverPort": 5000,
     "dburl": "mongodb+srv://Burdiian123:Sasha192837@cloud.9nfiu.mongodb.net/Cloud?retryWrites=true&w=majority",
     "secretKey": "mern-secket-key",
-    "filePath": ".\files",
+    "filePath": "http://62.113.97.189:5000/api/auth/files",
     "staticPath": ".\tstatic"
 }
