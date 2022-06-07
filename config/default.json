@@ -2,6 +2,6 @@
     "serverPort": 5000,
     "dburl": "mongodb+srv://Burdiian123:Sasha192837@cloud.9nfiu.mongodb.net/Cloud?retryWrites=true&w=majority",
     "secretKey": "mern-secket-key",
-    "filePath": "C:\\Users\\lenovo\\Desktop\\cloud\\server\\files",
-    "staticPath": "C:\\Users\\tim\\Desktop\\mern-cloud-disk\\server\\static"
+    "filePath": "\files",
+    "staticPath": "\static"
 }
