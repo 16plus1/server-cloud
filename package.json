@@ -1,0 +1,27 @@
+{
+    "name": "server",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "dev": "nodemon index.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.24.0",
+        "bcryptjs": "^2.4.3",
+        "config": "^3.3.6",
+        "express": "^4.17.1",
+        "express-fileupload": "^1.2.1",
+        "express-validator": "^6.13.0",
+        "git": "^0.1.5",
+        "heroku": "^7.59.2",
+        "jsonwebtoken": "^8.5.1",
+        "mongoose": "^6.0.14"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.15"
+    }
+}
